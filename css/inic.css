@@ -88,12 +88,12 @@ body{
   }
   .text{
     width: 85%;
-    color: rgb(255, 90, 90) ;
+    color: rgb(255, 116, 116) ;
    padding: 10px;
   
   }
   .activo{
-    color: rgb(255, 40, 40);
+    color: rgb(255, 116, 116);
   }
   img{width: 100%;
   border-radius: 20px;
@@ -158,7 +158,7 @@ nav a:hover {
   max-width: 960px;
   width: 100%;
   padding: 20px;
-  color: rgb(255, 90, 90);
+  color: rgb(255, 116, 116);
 }
 .cont {
   font-size: x-large;
