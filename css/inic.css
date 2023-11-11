@@ -100,7 +100,7 @@ body{
   margin-top: 10px;
 }
 .yop{
-  border-radius:180px 40px 40px 40px
+  border-radius:180px 180px 40px 40px;
 }
 .cont {
   font-size: x-large;
@@ -147,7 +147,7 @@ nav a:hover {
 }
 .yop{
   width: 250px;
-  border-radius:180px 40px 40px 40px;
+  border-radius:180px 180px 40px 40px;
   margin: 10px;
 }
 .sobremi{
