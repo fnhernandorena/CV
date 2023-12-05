@@ -18,6 +18,11 @@ h3 {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.tit{
+  font-size: larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+}
 .text p {
   color: black;
   font-size: large;
